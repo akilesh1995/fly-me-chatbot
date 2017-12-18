@@ -15,7 +15,7 @@ Use of virtualenv is recommended. Make sure pip in installed before running this
 
 ## Demos
 * You can find images of the application [here](https://imgur.com/a/SrEXZ) and [here](https://imgur.com/a/HgdoA).
-* Here is a small demo video on [YouTube]().
+* Here is a small demo video on [YouTube](https://www.youtube.com/watch?v=RfuhNnWjkUU).
 
 
 ## Contact

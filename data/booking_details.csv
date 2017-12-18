@@ -1,0 +1,4 @@
+origin,destination,date_of_travel,flight_number,seat_pref,insurance,name,email,date_of_birth,status,checkin,feedback,psid,booking_id,seat_number,class
+London,New York,10/04/2018,EM101,No,No,Akilesh Lakshminarayanan,akilesh1995@gmail.com,03/05/1995,confirmed,No,No,1484651678251464,23432,No,Economy
+New York,Berlin,14/04/2018,CP102,No,Yes,Akilesh Lakshminarayanan,akilesh1995@gmail.com,03/05/1995,confirmed,No,No,1484651678251464,54388,No,Economy
+New York,Berlin,19/06/2017,CP102,Isle,Yes,Akilesh Lakshminarayanan,akilesh1995@gmail.com,03/05/1995,completed,Yes,No,1484651678251464,75673,14c,Business

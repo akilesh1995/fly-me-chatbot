@@ -1,0 +1,13 @@
+flight_number,airline_name,origin,destination,departure_time,arrival_time,available
+EM101,Emirates,London,New York,1215,2200,1
+EM102,Emirates,New York,Hong Kong,0815,2315,1
+EM103,Emirates,Paris,London,1900,2100,1
+ET101,Ethiad,London,Paris,2130,2300,1
+ET102,Ethiad,Hong Kong,New York,0915,2300,1
+ET103,Ethiad,New York,London,1415,2200,1
+LU101,Lufthansa,Berlin,Paris,1400,1600,1
+LU102,Lufthansa,Paris,Berlin,1715,1830,1
+LU103,Lufthansa,Munich,London,1215,1400,1
+CP101,Cathay Pacific,London,Munich,1645,1830,1
+CP102,Cathay Pacific,New York,Berlin,1230,2030,1
+CP103,Cathay Pacific,Berlin,New York,1100,1845,1
